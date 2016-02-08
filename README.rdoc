@@ -1,11 +1,11 @@
-# MyTodo-RubyApp #
+= MyTodo-RubyApp
 
-* Création d'une application de gestion de tâches avec Ruby on Rails *
+<em>Création d'une application de gestion de tâches avec Ruby on Rails </em>
 
 Version 1.0 :
 	1. Fonctionnalités : 
-		* Possibilité de créer des listes de taches
-		* Possibilité de créer des tâches dans les listes
-		* Ajouter, Créer, Supprimer des taches
-		* Ajouter, Créer, Supprimer des listes de taches
+		a. Possibilité de créer des listes de taches
+		b. Possibilité de créer des tâches dans les listes
+		c. Ajouter, Créer, Supprimer des taches
+		d. Ajouter, Créer, Supprimer des listes de taches
 
